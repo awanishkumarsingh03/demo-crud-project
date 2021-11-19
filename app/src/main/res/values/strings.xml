@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DemoProject</string>
+    <string name="title">Make notes and click "add" to save them</string>
+    <string name="edittext">Enter your note here</string>
+    <string name="add">ADD note</string>
+</resources>
